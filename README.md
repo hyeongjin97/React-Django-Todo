@@ -34,7 +34,7 @@ CORS_ORIGIN_WHITELIST = [
 ~~~
 npx create-react-app 프로젝트 이름
 ~~~
-<p>2.bootstarp,reactstrap 설치</p>
+<p>2.bootstarp,reactstrap 설치 및 index.js에 등록</p>
 ~~~
 npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
 ~~~
