@@ -30,5 +30,13 @@ CORS_ORIGIN_WHITELIST = [
 <p>11.장고앱에 serializers.py 생성 및 작성 </p>
 <p>12. view.py, urls.py 작성</p>
 <h2>리액트 프론트엔드 생성</h2>
+<p>1.리액트 프로젝트 설치</p>
+~~~
+npx create-react-app 프로젝트 이름
+~~~
+<p>2.bootstarp,reactstrap 설치</p>
+~~~
+npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
+~~~
 
 
