@@ -38,5 +38,13 @@ npx create-react-app 프로젝트 이름
 ~~~
 npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
 ~~~
-
+<p>3.라액트 프로잭트 폴더에 axios설치</p>
+~~~
+npm install axios
+~~~
+<p>4.package.json에 proxy 생성</p>
+~~~
+"proxy": "http://localhost:8000",
+~~~
+<p>5.App.js, component, api 작성</p>
 
